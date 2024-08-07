@@ -1,7 +1,4 @@
 
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
-
 # Car Test
 <br />
 <p align="center">
